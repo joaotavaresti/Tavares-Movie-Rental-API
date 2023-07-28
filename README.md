@@ -47,3 +47,7 @@ Remember, the main goal of this challenge is not to write a fully-functional app
 The code has dozens of potential improvements, and we don't expect you to work on all of them. Feel free to prioritize the ones you consider most important to address in **about 3 hours of work**.
 
 _**Happy Coding!**_
+
+## Code-analysis branch 
+
+In progress...
