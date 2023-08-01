@@ -50,4 +50,6 @@ _**Happy Coding!**_
 
 ## Code-analysis branch 
 
-In progress...
+Please see code-analysis branch, PR #1.
+
+Thanks.
